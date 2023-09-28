@@ -29,9 +29,6 @@ header{
 }
 
 header>div{
-    /* position: absolute;
-    left: 30%;
-    right: 30%; */
     margin:   -5rem auto 0 auto;
     height: 170%;
     width: 80%;
@@ -44,7 +41,7 @@ header>div{
     position: absolute;
     padding: 0 3rem;
     width: 30%;
-    left: 30%;
+    left: 35%;
     bottom: 3rem;
     height: 75vh;
     background-color: white;
